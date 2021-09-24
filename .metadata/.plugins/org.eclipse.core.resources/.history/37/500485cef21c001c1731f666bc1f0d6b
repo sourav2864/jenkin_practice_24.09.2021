@@ -17,7 +17,7 @@ public class OrgTest {
 	}
 
 	@Test(groups = "regressionTesting")
-	public void delete54724752OrgTest() {
-		System.out.println("delete54724752OrgTest is running");
+	public void delete11OrgTest() {
+		System.out.println("delete11OrgTest is running");
 	}
 }
